@@ -13,7 +13,7 @@
 🎓 **Estudiante** apasionado por la tecnología y **Desarrollador Web** en activo  
 📍 **Ubicación:** Guatemala, Guatemala  
 💡 **Filosofía:** Siempre aprendiendo algo nuevo  
-🔭 **Actualmente:** Especializándome en **React** y mejorando mis habilidades full-stack  
+🔭 **Actualmente:** Especializándome en **React** y mejorando mis habilidades   
 ⚡ **Dato curioso:** Me encanta explorar nuevas tecnologías y resolver problemas complejos
 
 ---
@@ -46,14 +46,14 @@ C#              █████████████████████�
 SQL Server      ██████████████████████████████████████████████████████    50%
 CSS             ████████████████████████████████████████████              40%
 JavaScript      ████████████████████████████████████████████              40%
-React           ██████████████████████████                                30% (En proceso)
+React           ███                                                        0% (En proceso)
 ```
 
 ---
 
 ## 💼 Experiencia
 
-🔹 **Desarrollador Web Full-Stack**  
+🔹 **Desarrollador Web **  
 - 🎯 **Frontend:** Creación de interfaces atractivas y funcionales  
 - ⚙️ **Backend:** Desarrollo de APIs robustas con .NET Core 9  
 - 🧪 **QA:** Pruebas y control de calidad  
