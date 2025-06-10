@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mí
 
-🎓 **Estudiante** apasionado por la tecnología y **Desarrollador Web** en activo  
+🎓 **Estudiante** apasionado por la tecnología y **Desarrollador Web**  activo  
 📍 **Ubicación:** Guatemala, Guatemala  
 💡 **Filosofía:** Siempre aprendiendo algo nuevo  
 🔭 **Actualmente:** Especializándome en **React** y mejorando mis habilidades   
@@ -93,7 +93,7 @@ React                                                                     0% (En
 - 🔄 **Aprendiendo React** para expandir mis habilidades frontend
 - 🚀 **Proyectos con .NET Core 9** explorando las últimas características
 - 📚 **Mejorando arquitecturas** de bases de datos
-- 🌐 **Desarrollando aplicaciones web** full-stack
+- 🌐 **Desarrollando aplicaciones web**
 
 ---
 
